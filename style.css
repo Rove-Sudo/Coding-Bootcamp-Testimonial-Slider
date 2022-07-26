@@ -83,7 +83,6 @@ body{
 .author-text span{
     color: hsl(240, 18%, 77%);
     font-weight: 400;
-    display: block;
 }
 
 .slide-img img{
